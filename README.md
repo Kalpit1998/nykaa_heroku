@@ -169,3 +169,6 @@
 
 > [GitHub](https://github.com/Kalpit1998)
 
+
+
+##### Project URL: https://nykaa-clone-project.herokuapp.com/
