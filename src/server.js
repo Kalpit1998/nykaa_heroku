@@ -2,7 +2,7 @@ const connect = require("./configs/db")
 
 const app = require("./index");
 
-const port = process.env.PORT || 2005
+const port = 2005 || process.env.PORT
 
 app.listen(port, async (req, res) => {
     await connect()
